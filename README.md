@@ -1,3 +1,3 @@
 # cuddly-couscous
 
-All my School coding in one place
+All my coding in one place
